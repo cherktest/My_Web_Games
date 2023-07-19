@@ -4,7 +4,7 @@
 <details>
   <summary>1. Web Game "Dino Runner Sakha"</summary>
 
-В iotch.io: https://cherk97.itch.io/web-game-dino-runner-sakha
+В iotch.io: https://cherk97.itch.io/dino-runner-sakha
 
 
 
