@@ -26,27 +26,28 @@ Dinosaur Game, also known as T-Rex Game or Dino Runner, originally codenamed Pro
 
 
 
-details>
-  <summary>2. Web Game "Battle in the Lower World of Olonkho""</summary>
-
+<details>
+  <summary>2. Web Game "Battle in the Lower World of Olonkho"</summary>
 ----
+  
 Веб-игра вдохновленная [Олонхо](https://ru.wikipedia.org/wiki/Олонхо) . Нужно играть как в игре "Морской бой", но вместо кораблей нужно поражать Абаасы - Злого духа. 
 
-
 ----
+
 Web game inspired by [Olonkho](https://ru.wikipedia.org/wiki/Olonkho) . You need to play like in the game "Sea Battle", but instead of ships you need to hit the Abaasy - an Evil spirit.
 
 ----
 
-Demo: https://cherktest.github.io/Game/
+Demo: https://cherk97.itch.io/web-game-battle-in-the-lower-world-of-olonkho
+
+</details>
+
+![Record_2023_07_19_18_47_51_300 (1)](https://github.com/cherktest/My_Web_Games/assets/40435922/742daabe-bec7-453c-852b-1c63fab32953)
 
 
-![image](https://github.com/cherktest/Web-Game-Battle-in-the-Lower-World-of-Olonkho-/assets/40435922/642dc5e0-80ab-4823-9b52-23389a3013e1)
 
 
 
-
-https://github.com/cherktest/Web-Game-Battle-in-the-Lower-World-of-Olonkho-/assets/40435922/fdfeb936-3983-45b1-9e9a-a867af06b35a
 
 
 
